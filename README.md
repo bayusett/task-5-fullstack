@@ -1,7 +1,7 @@
 ## Virtual Internship Experience (Investree) - Fullstack - Bayu Setyadji
 ## Local installation
 
-## You your PHP version must be 8.0 or above
+## your PHP version must be 8.0 or above
 
 1. Clone the github repo:
 
